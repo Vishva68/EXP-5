@@ -16,9 +16,9 @@ S.No	Name of the Apparatus	Range	Quantity
 7	Connecting Wires	As Required	
 
 CIRCUIT DIAGRAM:
+<img width="865" height="357" alt="image" src="https://github.com/user-attachments/assets/abd4c860-cfe7-408b-b524-285cac85b264" />
 
-<img width="696" height="314" alt="Screenshot 2025-11-13 090839" src="https://github.com/user-attachments/assets/7b018600-d63a-4645-a5cd-06419fb5f557" />
-
+<img width="871" height="324" alt="image" src="https://github.com/user-attachments/assets/9061e038-6db0-4051-98a8-605fd737c662" />
 
 THEORY:
 	
@@ -35,19 +35,20 @@ OBSERVATIONS:
 
 REGULATION CHARACTERISTICS:
 
-![WhatsApp Image 2025-11-13 at 08 55 54_ff6b1cd6](https://github.com/user-attachments/assets/ea7d2da1-95bf-4f5d-9132-437ae81ad71f)
+<img width="469" height="786" alt="image" src="https://github.com/user-attachments/assets/79550912-dff5-4099-8ac2-bedccae75d5d" />
 
 V-I & REGULATION CHARACTERISTICS:
+
+<img width="506" height="797" alt="image" src="https://github.com/user-attachments/assets/3124d4cd-04dd-40ef-a7ed-c4fb86e04b5a" />
+
+
 PRECAUTIONS:
-
-![WhatsApp Image 2025-11-13 at 08 55 55_90aae55c](https://github.com/user-attachments/assets/712d997d-6386-4f01-96e4-120fd2a07b50)
-
 
 1. While doing the experiment do not exceed the ratings of the zener diode. This may lead to damage the diode.
 2. Connect voltmeter and Ammeter in correct polarities as shown in the circuit diagram.
 
 3. Do not switch ON the power supply unless you have checked the circuit connections as per the circuit diagram.
 
-RESULT:
 
+RESULT:
 The Characteristics of Zener Break Diode Voltage Regulation from the Characteristics are Observed.
